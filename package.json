@@ -2,7 +2,7 @@
   "name": "front_directoy",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://bruno-orozco.github.io/frontend_directoy",
+  "homepage": "http://bruno-orozco.github.io/front_directoy",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.3.0",
